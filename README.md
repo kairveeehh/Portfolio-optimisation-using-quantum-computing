@@ -3,6 +3,8 @@
 it also required some previous infor about monte-carlo-simulation
 
 This project focused on analyzing stocks and optimizing portfolios using quant computing  methods, including classical and quantum approaches. The analysis covered fetching real-time stock data, data processing, visualization, portfolio optimization, and Monte Carlo simulation for stock price forecasting.
+it also required some previous infor about monte-carlo-simulation
+
 
 ## Table of Contents
 
@@ -56,7 +58,7 @@ I explored portfolio optimization using both classical and quantum methods:
 
 I compared the results obtained from classical and quantum portfo
 
-##Author
+## Author
 
 Kairvee vaswani 
 
