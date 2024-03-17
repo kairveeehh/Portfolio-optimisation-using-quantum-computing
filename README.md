@@ -1,8 +1,8 @@
-# Stock Analysis and Portfolio Optimization using Quant Methods
+# Portfolio Optimization using Quant Methods
 
 it also required some previous infor about monte-carlo-simulation
 
-This project focused on analyzing stocks and optimizing portfolios using quantitative methods, including classical and quantum approaches. The analysis covered fetching real-time stock data, data processing, visualization, portfolio optimization, and Monte Carlo simulation for stock price forecasting.
+This project focused on analyzing stocks and optimizing portfolios using quant computing  methods, including classical and quantum approaches. The analysis covered fetching real-time stock data, data processing, visualization, portfolio optimization, and Monte Carlo simulation for stock price forecasting.
 
 ## Table of Contents
 
@@ -55,3 +55,9 @@ I explored portfolio optimization using both classical and quantum methods:
 ## Comparing Optimization Results
 
 I compared the results obtained from classical and quantum portfo
+
+##Author
+
+Kairvee vaswani 
+
+vkairvee@gmail.com
